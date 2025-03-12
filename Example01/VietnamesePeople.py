@@ -48,5 +48,4 @@ class VietnamesePeople(People):
         print(f"People.CCCD={self.CCCD}")
         print(f"People.Address={self.Address}")
     
-
     
