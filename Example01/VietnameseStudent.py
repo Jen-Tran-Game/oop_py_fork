@@ -5,7 +5,6 @@ Created on Fri Mar  7 14:23:22 2025
 
 @author: ngxxfus
 """
-import cv2
 class VietnameseStudent: 
     def __init__(self, 
                  Name = None, DoB = None, Sex = None, School = None, CCCD = None,
